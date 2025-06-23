@@ -4,3 +4,7 @@
 POST http://localhost:8080/llm-text
 
 ###
+
+POST http://localhost:8080/tool-example
+
+###
